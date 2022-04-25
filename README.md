@@ -1,4 +1,4 @@
-# cdi-01-
+# cdi-01
 # Hello
 
  <h6>  Alumno: Octavio Pino
