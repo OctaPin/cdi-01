@@ -1,6 +1,6 @@
 # cdi-01-
 # Hello
 
-# Alumno: Octavio Pino
-# Curso: 4°2da Avionica
-# MATERIA: Control de Interfaces
+ <h6>  Alumno: Octavio Pino
+ <h6> Curso: 4°2da Avionica
+ <h6> MATERIA: Control de Interfaces
